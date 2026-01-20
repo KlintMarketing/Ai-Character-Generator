@@ -1,0 +1,7 @@
+{
+  "name": "Ai Character Generator - TR Portfolio",
+  "description": "Upload your character and use AI to reimagine them in any setting, style, or scenario using Gemini's advanced image-to-image generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
